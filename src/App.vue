@@ -206,7 +206,7 @@ export default {
 		});
 
 		const mmConnector = new MetaMaskConnector({
-			appUrl: "Based Names",
+			appUrl: "https://basednames.xyz",
 		});
 
     // wallet connect v2
