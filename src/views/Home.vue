@@ -3,7 +3,7 @@
     <img class="img-fluid main-img rounded" src="../assets/logo.png" />
 
     <div class="text-align-header mt-4 mb-2">
-      <h1>Mint your {{getTldName}} digital ID!</h1>
+      <h1>Mint your {{getTldName}} web3 name!</h1>
       <p>
         A digital identity for the Based DAO web3 community.
         <!--

@@ -201,12 +201,12 @@ export default {
     const { getFallbackProvider } = useChainHelpers();
 
     const coinbaseConnector = new CoinbaseWalletConnector({
-			appName: "Based DAO ID",
+			appName: "Based Names",
 			jsonRpcUrl: "https://mainnet.base.org",
 		});
 
 		const mmConnector = new MetaMaskConnector({
-			appUrl: "Based DAO ID",
+			appUrl: "Based Names",
 		});
 
     // wallet connect v2

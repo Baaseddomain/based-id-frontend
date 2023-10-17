@@ -1,4 +1,4 @@
-# Based DAO ID frontend
+# Based Names frontend
 
 Frontend for .based domain service powered by the [Punk Domains protocol](https://punk.domains).
 
