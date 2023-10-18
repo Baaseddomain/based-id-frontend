@@ -24,6 +24,12 @@
               Mint free domain
             </router-link>
 
+            <a 
+              class="btn btn-primary me-3 navbar-menu-btn" 
+              href="https://opensea.io/collection/based-dao-id" 
+              target="_blank"
+            >Marketplace</a>
+
             <div v-if="isActivated" class="btn-group me-3 navbar-menu-btn">
               <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                 {{getNetworkName}}
