@@ -2,7 +2,7 @@
   <div class="container text-center">
 
     <div class="text-align-header mt-4 mb-2">
-      <h1>Mint a {{getTldName}} name for free!</h1>
+      <h1>Mint a 4+ char {{getTldName}} name for free!</h1>
       <p>
         If you hold a <a href="https://basescan.org/address/0xaeb0c50a48c8355ce46ab696c02b9cde2f30f1e3" target="_blank">Noun-Bound Token</a>.
       </p>
@@ -33,7 +33,7 @@
 
     <div class="text-align-header">
       <p class="mt-5 price-text">
-          domain price: FREE
+          4+ char domain price: FREE
       </p>
     </div>
 
@@ -119,7 +119,7 @@ export default {
 
     isCorrectLength() {
       if (this.chosenDomainName) {
-        return this.chosenDomainName.length >= 1; // TODO: choose correct minimum length
+        return this.chosenDomainName.length >= 4; // TODO: choose correct minimum length
       }
 
       return false;

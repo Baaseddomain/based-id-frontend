@@ -15,7 +15,7 @@ export default {
     tldContract: null,
     tldChainId: 8453,
     tldChainName: "Base",
-    minterAddress: "0x8c197A276384A568F6237178D434410f1ae825C2", // TODO
+    minterAddress: "0x16dE409173106E99533b1F73d0f7982a22a5435a", // TODO
     minterContract: null,
     minterLoadingData: false,
     minterPaused: true,
