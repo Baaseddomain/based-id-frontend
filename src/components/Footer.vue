@@ -23,7 +23,7 @@
 
     <a class="icons" target="_blank" href="https://github.com/BasedDAO"><i class="bi bi-github"></i></a>
 
-    <a class="icons" target="_blank" href="https://discord.gg/XeuDC7YA9A"><i class="bi bi-discord"></i></a>
+    <a class="icons" target="_blank" href="https://discord.gg/hZZs5RrxCz"><i class="bi bi-discord"></i></a>
     
   </div>
 </template>
